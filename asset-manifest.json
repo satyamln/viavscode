@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/viavscode/static/css/main.f855e6bc.css",
+    "main.js": "/viavscode/static/js/main.031be50b.js",
+    "static/js/787.1937f22b.chunk.js": "/viavscode/static/js/787.1937f22b.chunk.js",
+    "index.html": "/viavscode/index.html",
+    "main.f855e6bc.css.map": "/viavscode/static/css/main.f855e6bc.css.map",
+    "main.031be50b.js.map": "/viavscode/static/js/main.031be50b.js.map",
+    "787.1937f22b.chunk.js.map": "/viavscode/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.031be50b.js"
+  ]
+}
